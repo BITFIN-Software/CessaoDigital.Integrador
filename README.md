@@ -25,7 +25,7 @@ Antes de utilizar a ferramenta, é necessário é informar as configurações at
   }
 }
 ```
-A partir deste diretório raiz, serão criados subdiretórios para organização dos arquivos, onde os arquivos gerados por outras aplicação para envio, deverão ser colocados no diretório `Remessas` e, quando ele foi enviado ao serviço, a ferramenta moverá o arquivo para o subdiretório `Enviadas`. Quando novos arquivos estiverem disponíveis, ao realizar a download, ele será armazenado no subdiretório `Retornos`, que é onde as aplicações deverão monitorar para processamento. Por fim, todas as execuções são registradas e armazenadas em arquivos de logs diários no subdiretório `Logs`.
+A partir deste diretório raiz, serão criados subdiretórios para organização dos arquivos, onde os arquivos gerados por outras aplicações para envio, deverão ser colocados no diretório `Remessas` e, quando ele foi enviado ao serviço, a ferramenta moverá o arquivo para o subdiretório `Enviadas`. Por fim, todas as execuções são registradas e armazenadas em arquivos de logs diários no subdiretório `Logs`.
 ```
 * C:\Temp\Teste
 |---- Remessas
