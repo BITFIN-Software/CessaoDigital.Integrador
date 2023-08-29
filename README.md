@@ -15,7 +15,7 @@ Antes de utilizar a ferramenta, é necessário é informar as configurações at
         "Ambiente": "Local",
         "Versao": "v1",
         "CodigoDoContratante": "c7efea7b-5040-4956-9d11-755dbeaddf5",
-        "ChaveDeIntegracao": "CHAVE-FORNECIDA-PELO-SERVIÇO-DA-BITSIGN",
+        "ChaveDeIntegracao": "CHAVE-FORNECIDA-PELA-PLATAFORMA",
         "Timeout": "00:00:20"
       }
     ]
