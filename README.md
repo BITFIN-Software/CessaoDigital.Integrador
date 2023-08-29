@@ -52,7 +52,7 @@ Alternativamente poderá agendar este executável para que ele seja executado pe
 
 > #### CONTATOS
 >
-> - Site: <https://bitsign.com.br>
+> - Site: <https://cessaodigital.com.br>
 > - E-mail Técnico: <dev@bitfin.com.br>
-> - E-mail Comercial: <contato@bitsign.com.br>
+> - E-mail Comercial: <comercial@bitfin.com.br>
 > - Telefone (+WhatsApp): +55 (19) 9.9901-1065
