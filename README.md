@@ -50,6 +50,14 @@ Uso:
 ### Execução Periódica
 Alternativamente poderá agendar este executável para que ele seja executado periodicamente. Caso precise disso, pode recorrer à recursos nativos do próprio sistema operacional (como as Tarefas do Windows), para que se configure o período e a quantidade de repetições necessárias.
 
+> #### API's
+>
+> Para um maior controle sobre o envio dos arquivos e uma gestão total sobre os documentos fiscais, fornecedores e operações, opte por implementar as API's que a Plataforma oferece. Abaixo estão os links que podem ser úteis:
+> - Documentação de Integração: https://cessaodigital.com.br/integracao
+> - Proxy .NET: https://github.com/BITFIN-Software/CessaoDigital.Proxy
+
+---
+
 > #### CONTATOS
 >
 > - Site: <https://cessaodigital.com.br>
