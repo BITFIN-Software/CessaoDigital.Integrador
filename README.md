@@ -2,7 +2,7 @@
 ###### Envio de arquivos fiscais para Antecipação à Fornecedores.
 Ferramenta para automatizar o envio de documentos fiscais para a Plataforma Cessão Digital, disponibilizando os mesmos para os respectivos fornecedores realizarem operações de Antecipação de Recebíveis. Essa ferramenta abstrai toda a comunicação com as API's da Plataforma, apenas ficando sob responsabilidade da aplicação (ou de um usuário) depositar os arquivos em um determinado diretório, onde ela empacotará os mesmos e, na sequência, enviará para a Plataforma processar e disponibilizar aos fornecedores.
 
-> IMPORTANTE: Utilizando este mecanismo de importação de documentos fiscais, faz com que os mesmos já estejam autorizados à serem antecipados pelos respectivos fornecedores. certifique-se de somente disponibilizar neste local os documentos fiscais que já estejam devidamente aptos para serem antecipados.
+> IMPORTANTE: Utilizando este mecanismo de importação de documentos fiscais, faz com que os mesmos já estejam autorizados à serem antecipados pelos respectivos fornecedores. Certifique-se de somente disponibilizar neste local os documentos fiscais que já estejam devidamente aptos para serem antecipados.
 
 Antes de utilizar a ferramenta, é necessário é informar as configurações através do arquivo `appsettings.json`, que consiste nos parâmetros informados no momento da contratação do serviço e o diretório raiz onde os arquivos serão gerados ou armazenados. Esse arquivo deve ser devidamente configurado antes de fazer uso desta ferramenta.
 
